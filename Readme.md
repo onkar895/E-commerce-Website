@@ -1,15 +1,15 @@
 👔 Male Fashion E-commerce Website
 A fully responsive and modern e-commerce website designed for men's fashion, built using HTML, CSS, and JavaScript. This project delivers a seamless shopping experience with an elegant UI, interactive features, and smooth performance across all devices.
 
-✨ Features
-✅ Fully Responsive Design – Optimized for desktops, tablets, and mobile devices.
-✅ Modern UI/UX – Stylish and intuitive design and smooth animations for an engaging shopping experience.
-✅ Product Listings – Well-structured product cards with images, prices, and details.
+✨ Features:
+- Fully Responsive Design – Optimized for desktops, tablets, and mobile devices.
+- Modern UI/UX – Stylish and intuitive design and smooth animations for an engaging shopping experience.
+- Product Listings – Well-structured product cards with images, prices, and details.
 
 🛠️ Technologies Used
-HTML – For structuring web pages
-CSS – For styling and responsiveness
-JavaScript – For interactivity and dynamic behavior
+- HTML – For structuring web pages
+- CSS – For styling and responsiveness
+- JavaScript – For interactivity and dynamic behavior
 
 📸 Screenshots
 
