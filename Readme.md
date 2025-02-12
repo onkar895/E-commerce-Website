@@ -13,7 +13,7 @@ A fully responsive and modern e-commerce website designed for men's fashion, bui
 - JavaScript – For interactivity and dynamic behavior
 
 ## Live Demo:
-![ecommerce-male-fashion](https://ecommerce-male-fashion.netlify.app/)
+https://ecommerce-male-fashion.netlify.app/
 
 ## 📸 Screenshots:
 
