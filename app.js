@@ -20,3 +20,5 @@ $(document).ready(function () {
 $(".menu-items a").click(function () {
   $("#checkbox").prop("checked", false);
 });
+
+

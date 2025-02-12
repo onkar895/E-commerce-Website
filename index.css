@@ -256,16 +256,15 @@
 .home_txt h2 {
     font-size: 2.6rem;
     font-weight: 500;
-    line-height: 53px;
-    letter-spacing: 3px;
+    line-height: 50px;
     font-weight: 600;
+    margin-bottom: 10px;
     color: var(--light-black);
 }
 
-.home_txt .home_label p {
-    color: grey;
+.home_txt .home_label span {
+    color: rgb(103, 99, 99);
     font-size: 14px;
-    padding-top: 10px;
 }
 
 .home_txt a {
@@ -283,7 +282,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 30px;
+    margin-top: 20px;
     cursor: pointer;
 }
 
@@ -305,8 +304,14 @@
 .collections {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
     margin-top: 65px;
+}
+
+@media (max-width: 768px) {
+    .collections {
+        flex-direction: column;
+        align-items: center;
+    }
 }
 
 .content {
@@ -1277,3 +1282,4 @@ iframe {
         margin-bottom: 0px;
     }
 }
+
